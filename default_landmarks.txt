@@ -1,0 +1,14 @@
+% Default landmark labels
+NaN;NaN;NaN;WHS origin;M
+NaN;NaN;NaN;Bregma;M
+NaN;NaN;NaN;Lambda;M
+NaN;NaN;NaN;Cranial fossa, left;L
+NaN;NaN;NaN;Cranial fossa, right;R
+NaN;NaN;NaN;Maxillary canal, left;L
+NaN;NaN;NaN;Maxillary canal, right;R
+NaN;NaN;NaN;Occipital condyle, left;L
+NaN;NaN;NaN;Occipital condyle, right;R
+NaN;NaN;NaN;Interparietal bone;M
+NaN;NaN;NaN;Foramen magnum;M
+NaN;NaN;NaN;Basisphenoid bone;M
+NaN;NaN;NaN;Frontal bone;M

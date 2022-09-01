@@ -1,0 +1,14 @@
+% Definition: ML;AP;DV;Label;Type. Positive directions towards right, anterior, superior. Possible values for Type are M (median), L (left) or R (right).
+245;624;249;WHS origin;M
+247;654;441;Bregma;M
+245;443;465;Lambda;M
+72;337;297;Cranial fossa, left;L
+416;344;295;Cranial fossa, right;R
+172;806;293;Maxillary canal, left;L
+319;805;297;Maxillary canal, right;R
+94;265;376;Occipital condyle, left;L
+391;275;384;Occipital condyle, right;R
+243;288;462;Interparietal bone;M
+242;215;305;Foramen magnum;M
+244;455;118;Basisphenoid bone;M
+241;935;376;Frontal bone;M

@@ -1,0 +1,3 @@
+% Definition: ML;AP;DV;Label;Type. Positive directions towards right, anterior, superior. Possible values for Type are M (median), L (left) or R (right).
+0;0;0;Bregma;M
+0;-4.21;0;Lambda;M
