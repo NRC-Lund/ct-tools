@@ -1,4 +1,4 @@
-# ct-tools
+# What is ct-tools?
 This is a set of Matlab tools to segment electrodes in CT images of brains and to determine their anatomical locations.
 
 # Requirements
